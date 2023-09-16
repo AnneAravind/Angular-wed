@@ -1,0 +1,200 @@
+.orange-container{
+    color: red;
+}
+.top-container {
+    height: 80vh;
+    width: 100%;
+    color: aliceblue;
+    padding-right: 275px;
+    display: flex;
+    direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.top-heading{
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+}
+.top-paragraph{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+.aravind{
+    background-color: tomato;
+}
+.top-heading1{
+    color: red;
+    font-size: 50px;
+    font-weight: bold;
+    text-align:left;
+}
+.top-para1{
+    color: red;
+    font-size:25px;
+    text-align:left;
+}
+.top-para2{
+    font-size:15px;
+    text-align:left;
+}
+.top-heading2{
+    font-size: 30px;
+    font-weight:normal;
+    color: black;
+
+
+}
+.sub-heading1{
+    font-size: 15px;
+    font-weight:normal;
+    text-align:left;
+    
+    color: white;
+}
+.top-heading3{
+    font-size: 30px;
+    font-weight:normal;
+    text-align: left;
+    color: black;
+
+}
+.sub-heading2{
+    font-size: 15px;
+    font-weight:normal;
+    text-align: center;
+    color: white;
+
+}
+.top-heading4{
+    font-size: 30px;
+    font-weight:normal;
+    text-align: left;
+    color: black;
+
+}
+.sub-heading3{
+    font-size: 15px;
+    font-weight:normal;
+    text-align: center;
+    color: white;
+}
+.main{
+    font-size: 40px;
+    font-weight:bold;
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.myimg{
+    padding-right: 10vh;
+}
+.magnify{
+    transition: transform .1s;
+
+}
+.magnify:hover
+{
+ transform:scale(1.1);
+}
+.card-logo{
+   align-items: center;
+   font-size: 50px;
+   background-color: palevioletred;
+   border-radius:20px;
+   text-align: center;
+}
+.card-logo1{
+    font-size: 0%;
+}
+.top-nose1{
+ text-align: left;
+ background-size: cover;
+}
+.top-leg1{
+    font-weight: bold;
+    font-size: 20px;
+}
+.top-leg2{
+    font-size: 10px;
+    width:100%;
+ 
+}
+.top-nose2{
+    background-color: tomato;
+}
+.second-logo{
+    font-size: 30px;
+    text-align: left;
+}
+.xyz{
+    font-size:50px;
+    text-align: center;
+}
+.top-one{
+    font-size: 30px;
+    color:black;
+    text-align: left;
+    font-weight: bold;
+}
+.top-one1{
+    font-size: 20px;
+    text-align: left;
+}
+.form-control1{
+    font-weight: bold;
+    text-align: left;
+    background-color: brown;
+
+}
+.main-img{
+    width: 50%;
+    background-size: cover;
+    padding-right: 40px;
+}
+.bottom{
+    text-align: center;
+}
+.lag{
+    font-size: 40px;
+    color: indigo;
+    text-align: center;
+    font-weight: bold;
+}
+.card-text{
+    text-align:center
+}
+.vensab{
+    text-align:center;
+}
+.lag1{
+    font-size:20px ;
+}
+.venila{
+    background-color:tomato;
+    text-align: center;
+}
+.venila-1{
+    font-size: 15px;
+    color:tomato;
+}
+.main-venila{
+    color: black;
+    font-size:40px;
+    text-align: center;
+    font-weight: bold;
+}
+.container{
+    background-color: tomato;
+}
+.madam{
+    text-align: center;
+    width:auto;
+}
+.anshu{
+   padding-right: 250px;
+}
